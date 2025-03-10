@@ -4,6 +4,29 @@ Bus ticket booking application
 
 <h3 align="center">It's a MERN Stack Bus Ticket Booking web application with all the major functionalities</h3>
 
+<p align="center">
+  <h2 align="center"> Home </h2>
+  <img src="https://github.com/skdinesh/ZOPGO-BUS/blob/master/Screenshots/Home.png" alt="Home" />
+  <h2 align="center"> Routes </h2>
+  <img src="https://github.com/skdinesh/ZOPGO-BUS/blob/master/Screenshots/Routes.png" alt="Routes" />
+  <h2 align="center">Signup </h2>
+  <img src="https://github.com/skdinesh/ZOPGO-BUS/blob/master/Screenshots/Signup.png" alt="Signup" />
+  <h2 align="center">Sign-in </h2>
+  <img src="https://github.com/skdinesh/ZOPGO-BUS/blob/master/Screenshots/Sing-in.png" alt="Sign-in" />
+  <h2 align="center">Tickets </h2>
+  <img src="https://github.com/skdinesh/ZOPGO-BUS/blob/master/Screenshots/Tickets.png" alt="Tickets" />
+  <h2 align="center"> Seat selection</h2>
+   <img src="https://github.com/skdinesh/ZOPGO-BUS/blob/master/Screenshots/seat%20selection.png" alt="Seat selection" />
+  <h2 align="center"> Booking form</h2>
+  <img src="https://github.com/skdinesh/ZOPGO-BUS/blob/master/Screenshots/Booking%20form.png" alt="Booking form" />
+  <h2 align="center"> payment</h2>
+  <img src="https://github.com/skdinesh/ZOPGO-BUS/blob/master/Screenshots/payment.png" alt="payment" />
+  <h2 align="center">Tickets </h2>
+   <img src="https://github.com/skdinesh/ZOPGO-BUS/blob/master/Screenshots/My%20Ticket.png" alt="My Tickets" />
+  <h2 align="center"> Admin Dashboard</h2>
+  <img src="https://github.com/skdinesh/ZOPGO-BUS/blob/master/Screenshots/Dashboard.png" alt="Admin Dashboard" />
+</p>
+
 <br />
 
 <h2 align="center">🖥️ Tech Stack</h2>
