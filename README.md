@@ -66,7 +66,7 @@ Bus ticket booking application
 <h3 align="center"><a href="https://64c8934c58159a3cd96ff9cf--rococo-biscuit-257cba.netlify.app/"><strong>Want to see live preview »</strong></a></h3>
 
 
-Blue Bus is a MERN Stack Bus Ticket Booking web application that allows you to buy bus tickets online. It provides features such as viewing your past and upcoming tickets, as well as the option to cancel tickets if needed.
+ZOPGO Bus is a MERN Stack Bus Ticket Booking web application that allows you to buy bus tickets online. It provides features such as viewing your past and upcoming tickets, as well as the option to cancel tickets if needed.
 <br />
 
 ## Buses are available from Chennai Tamil nadu to all over south India.
@@ -85,7 +85,7 @@ Blue Bus is a MERN Stack Bus Ticket Booking web application that allows you to b
 
 <br />
 
-## Glimpses of Blue Bus 🙈 :
+## Glimpses of ZOPGO Bus 🙈 :
 
 
 <table>
